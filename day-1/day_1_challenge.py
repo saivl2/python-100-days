@@ -1,1 +1,0 @@
-print('Your beer brand could be: ' + "'"+input("Enter your pet's name: ") + ' ' + input("Enter your favorite beer brand: ") + "'")

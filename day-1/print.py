@@ -1,5 +1,0 @@
-print("Hello world")
-print('hello world I say "hello"')
-print(100)
-print(100 + 50)
-print('100 + 50')
